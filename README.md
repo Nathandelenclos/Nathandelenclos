@@ -13,5 +13,5 @@
 
 <h3 align="left">Stats:</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=NathanDelenclos&show_icons=true" alt="language stats">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathandelenclos&layout=compact" alt="language stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathandelenclos&layout=compact" alt="language stats">
 
