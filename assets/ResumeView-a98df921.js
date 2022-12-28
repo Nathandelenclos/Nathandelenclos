@@ -1,1 +1,0 @@
-import{_ as e,o as s,c as o,b as t}from"./index-152718f7.js";const c={name:"ResumeView"},a={class:"resume"},n=t("h1",null,"This is an resume page",-1),r=[n];function _(i,d,m,p,u,l){return s(),o("div",a,r)}const h=e(c,[["render",_]]);export{h as default};
