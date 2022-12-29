@@ -1,1 +1,0 @@
-import{_ as t,o as e,c as o,a as c}from"./index-a7391f23.js";const s={name:"ContactView"},a={class:"contact"},n=c("h1",null,"This is an contact page",-1),_=[n];function r(i,d,p,l,f,h){return e(),o("div",a,_)}const u=t(s,[["render",r]]);export{u as default};
