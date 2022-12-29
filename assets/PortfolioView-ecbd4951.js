@@ -1,1 +1,0 @@
-import{_ as o,o as e,c as t,a as s}from"./index-524fa1ee.js";const a={name:"PortfolioView"},c={class:"portfolio"},n=s("h1",null,"This is an portfolio page",-1),r=[n];function i(_,l,p,f,d,h){return e(),t("div",c,r)}const u=o(a,[["render",i]]);export{u as default};
