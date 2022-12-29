@@ -1,0 +1,1 @@
+import{_ as o,B as t,o as e,c as s,a}from"./index-da7695af.js";const c={name:"PortfolioView",setup(){t({title:"Portfolio"})}},i={class:"portfolio"},r=a("h1",null,"This is an portfolio page",-1),n=[r];function _(l,p,f,d,h,u){return e(),s("div",i,n)}const B=o(c,[["render",_]]);export{B as default};

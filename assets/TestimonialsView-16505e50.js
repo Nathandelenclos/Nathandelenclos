@@ -1,0 +1,1 @@
+import{_ as s,B as e,o as t,c as o,a}from"./index-da7695af.js";const i={name:"TestimonialsView",setup(){e({title:"Testimonials"})}},n={class:"testimonials"},c=a("h1",null,"This is an testimonials page",-1),_=[c];function l(r,m,p,d,f,h){return t(),o("div",n,_)}const B=s(i,[["render",l]]);export{B as default};
