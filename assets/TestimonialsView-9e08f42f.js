@@ -1,1 +1,0 @@
-import{_ as s,o as e,c as t,a as o}from"./index-f480486a.js";const a={name:"TestimonialsView"},n={class:"testimonials"},i=o("h1",null,"This is an testimonials page",-1),c=[i];function _(r,l,d,m,p,f){return e(),t("div",n,c)}const u=s(a,[["render",_]]);export{u as default};
