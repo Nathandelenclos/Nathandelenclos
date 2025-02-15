@@ -61,9 +61,7 @@ I follow a **Scrum + DevOps** approach:
 
 ## 📫 Let's Connect!
 
-- 🌍 **Portfolio**: [Coming Soon]
-- 🐦 **Twitter**: [@yourhandle]
-- 💼 **LinkedIn**: [linkedin.com/in/nathandelenclos]
+- 💼 **LinkedIn**: [linkedin.com/in/nathandelenclos](https://www.linkedin.com/in/nathan-delenclos/)
 - 📩 **Email**: [[nathan.delenclos@gmail.com](mailto:nathan.delenclos@gmail.com)]
 
 🚀 Always open to collaborations and new challenges!
